@@ -1,0 +1,5 @@
+let HumanYears = 11;
+let  EarlyYears = 2;
+let LaterYears = 9;
+let DogYears = EarlyYears * 10.5 + LaterYears * 4;
+console.log(DogYears);
