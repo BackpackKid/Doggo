@@ -1,0 +1,10 @@
+let HumanYears = 11;
+//change 11 to your age or age you want to use.
+let  EarlyYears = 2;
+//don't edit (the first 2 years of your or entered age's life.)
+let LaterYears = 9;
+//Change to your age -(minus) 2
+let DogYears = EarlyYears * 10.5 + LaterYears * 4;
+//DO NOT EDIT!!!!!!!!!!!!!!!!!!
+console.log(DogYears);
+//prints DogYears (entered age in dog years)
