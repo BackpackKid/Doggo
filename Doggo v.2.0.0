@@ -1,0 +1,12 @@
+//dog years to human years;
+let HumanYears = 11;
+let EarlyYears = 2;
+let LaterYears = 9;
+let DogYears = EarlyYears * 10.5 + LaterYears * 4;
+const MyName = 'BackpackKid';
+//enter your name;
+console.log(DogYears);
+
+//add conversation
+
+console.log(`My name is ${MyName} and i am ${HumanYears} years old in human years. In dog years i am ${DogYears} years old.`
